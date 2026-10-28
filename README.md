@@ -3,7 +3,7 @@
 **Bioinformatics engineering student (UM6SS, Casablanca), omics & structural bioinformatics.**
 I build reproducible pipelines that go from raw data to biological interpretation: NGS analysis, multi-omics integration, molecular docking, and deep learning for genetic variant interpretation.
 
-🎯 **Looking for a 6-month final-year internship (PFE) starting February 2027.**
+🎯 **Looking for a 5 to 6-month final-year internship (PFE) starting February 2027.**
 
 ---
 
